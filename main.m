@@ -8,27 +8,7 @@ addpath(genpath(pwd));
 router = 'data\';
 k = 10;Smooth = 1;
 datasetName={
-% 'Birds';
-'Business';
-% 'Computers';
-% 'Emotions';
-% 'Education';
-% 'Entertainment';
-% 'EukaryotePseAAC';
-% 'Flags';
-% 'Health';
-% 'Reference';
-% 'Scene';
-% 'Society';
-% 'Social';
-% 'Yeast';
-% 'Imdb';
-% 'Mediamill';
-% 'Ohsumed';
-% 'Stackex_cooking';
-% 'Yelp';
-% 'Nuswide_cVLADplus';
-% 'Nuswide_BoW';
+ 'Birds';
     }'; %取文件路径originRoute下所有文件和目录名
 
 
